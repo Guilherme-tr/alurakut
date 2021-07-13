@@ -22,7 +22,10 @@ export default function Home() {
     'juunegreiros', 
     'omariosouto', 
     'peas', 
-    'rafaballerini'
+    'rafaballerini',
+    'filipedeschamps',
+    'gustavoguanabara',
+    'kaelbastos'
   ];
 
   return (
